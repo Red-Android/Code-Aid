@@ -1,6 +1,6 @@
 # CodeAid — Project Requirements
 
-Project folder: `/home/animesh/Nebius X Nvidia Hackathon/Code-Aid`
+Project folder: `/home/animesh/Documents/GitHub/Code-Aid`
 
 CodeAid is an evidence-first coding assistant that diagnoses failing tests, proposes a focused patch, and verifies the patch by running the tests again.
 
