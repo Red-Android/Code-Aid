@@ -2,23 +2,8 @@
 .env
 .env.*
 !.env.example
-.env~
 
 # Python environments and generated files
 .venv/
-venv/
 __pycache__/
 *.py[cod]
-*.egg-info/
-.pytest_cache/
-.ruff_cache/
-
-# Editor and operating-system files
-.idea/
-.vscode/
-.DS_Store
-Thumbs.db
-
-# Local run output
-artifacts/
-*.log
